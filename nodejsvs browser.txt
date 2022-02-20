@@ -1,0 +1,15 @@
+browser js
+
+1. In browser Js is running on front-end.
+2. very much user friendly,no coding like syntaxes needed to be followed.
+3. Any web browser can run the JS code with its in-built Js engine
+(starting from IE to chrome)
+4. HTML and CSS files can be added to it.
+5. Javascript is a programming language that is used for writing scripts on the website. 
+
+NODE Js
+1. here, JS program is running on server side.
+2. As the node js is based on c,c++ and JS proper programming language has to be followed.
+3. Of course, program coded in node js can be copied and runned in any browser,program can be directly runned in v8 chrome engine.
+4. No html and css files can be attached.
+5. It is an interpreter and environment for JavaScript with some specific useful libraries which JavaScript programming can use separately.

@@ -1,0 +1,18 @@
+console.log(typeof(1));
+o/p - number
+console.log(typeof(1.1));
+o/p - number
+console.log(typeof('1.1'));
+o/p - string
+console.log(typeof(true));
+o/p - Boolean
+console.log(typeof(null));
+o/p - Object
+console.log(typeof(undefined));
+o/p - undefined
+typeof([])
+o/p - Object
+typeof({})
+o/p - Object
+typeof(NaN)
+o/p - number
